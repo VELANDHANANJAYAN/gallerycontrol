@@ -147,10 +147,10 @@ public class MainActivity extends Activity {
 
 ## OUTPUT:
 
-![Screenshot 2024-04-29 093420](https://github.com/VELANDHANANJAYAN/gallerycontrol/assets/119405038/c7043ee9-55ba-490d-837e-4a38d0a05163)
-
-![Screenshot 2024-04-29 093431](https://github.com/VELANDHANANJAYAN/gallerycontrol/assets/119405038/ceb32f11-3de4-47cf-a5a3-1a559cf1dd99)
-
+![IMG-20240509-WA0008](https://github.com/VELANDHANANJAYAN/gallerycontrol/assets/119405038/8f0a7637-4a59-4ddd-946c-5540713bde85)
+![IMG-20240509-WA0028](https://github.com/VELANDHANANJAYAN/gallerycontrol/assets/119405038/c8fcaeb1-94a2-427d-adf5-0667d53e4b47)
+![IMG-20240509-WA0005](https://github.com/VELANDHANANJAYAN/gallerycontrol/assets/119405038/a4f71f3a-b9f4-497f-a20c-34a1132b8e7e)
+![IMG-20240509-WA0018](https://github.com/VELANDHANANJAYAN/gallerycontrol/assets/119405038/0f68a5b9-fd05-498b-b3c6-946a8d27ebc9)
 
 
 
